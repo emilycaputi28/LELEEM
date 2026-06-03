@@ -12,3 +12,4 @@ Esse repositório pertence a Emily. A integrante 1, Emily, um será responsável
 # Atualizações
 
  - Integrante 1: Desenvolvimento da estrutura inicial.
+ - Integrante 2: Adicionando operações de soma e subtração.
