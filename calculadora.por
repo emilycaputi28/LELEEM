@@ -20,19 +20,25 @@ programa
         }senao se(operacao == 2){
             escreva(n1 + " - " + n2 + " = " + subtracao(n1, n2))
         }senao se(operacao == 3){
+            escreva(n1+" * "+n2+" = "+multiplicacao(n1, n2))
             // multiplicação
         }senao se(operacao == 4){
+            escreva(n1+" / "+n2+" = "+divisao(n1, n2))
             // divisão
         }senao{
             escreva("Operação inválida")
         }
-
-
     }
     funcao real soma(real n1, real n2) {
         retorne n1 + n2
     }
     funcao real subtracao(real n1, real n2) {
         retorne n1 - n2
+    } 
+    funcao real multiplicacao (real n1, real n2) {
+    	retorne n1 * n2
+    }
+    funcao real divisao (real n1, real n2) {
+    	retorne n1 / n2
     }
 }
