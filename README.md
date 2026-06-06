@@ -8,7 +8,7 @@
 
 ---
 
-## Objetivo do algoritmo
+## Objetivo do Algoritmo
 
 O algoritmo consiste em uma calculadora funcional de quatro operações básicas. Seu objetivo é receber dois números reais informados pelo usuário, permitir a escolha da operação desejada (soma, subtração, multiplicação ou divisão) e exibir o resultado final da operação na tela por meio de funções específicas para cada cálculo.
 
@@ -39,7 +39,7 @@ O algoritmo consiste em uma calculadora funcional de quatro operações básicas
 
 ---
 
-## Comandos utilizados por cada integrante
+## Comandos Utilizados Por Cada Integrante
 
  - **Integrante 1**: git config, ls -al ~/.ssh, rm -f ~/.ssh/id_rsa*, ssh-keygen -t rsa -b 4096 -C, eval "$(ssh-agent -s)", ssh-add ~/.ssh/id_rsa, clip < ~/.ssh/id_rsa.pub, ssh -T git@github.com, git clone, cd, touch calculadora.por, git add, git commit -m, git push, code ., git status, git pull;
 
@@ -49,7 +49,7 @@ O algoritmo consiste em uma calculadora funcional de quatro operações básicas
 
 ---
 
-## Resumo dos commits:
+## Resumo dos Commits:
 
  1. **Commit 1:** Criação e integração inicial do `README.md` (Integrante 1)
  2. **Commit 2:** Integração da estrutura básica do algoritmo (Integrante 1)
